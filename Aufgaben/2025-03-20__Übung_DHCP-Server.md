@@ -14,4 +14,9 @@ DNS-Suffixe: grg spengergasse.at
 
 ![IP-Konfiguration Bild](Bilder/image-1.png)
 
-![Ping Bild](Bilder/image.png)
+![Ping Bild](img/image.png)
+
+
+MAC-Adresse herausfinden mit ARP:
+
+![MAC-Adresse](img/image-2.png)

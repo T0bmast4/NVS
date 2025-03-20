@@ -54,6 +54,10 @@ Wie lautet die Subnetzmaske bei der Netzadresse: 17.0.0.0 mit 10 verwendbaren Su
 
 **Antwort**
 
+Ich brauche 10 Netze mit je einem /28 Subnet. 
+Die Subnetmaske wäre dann 255.255.255.0
+
+Ein /24 Netz, weil sich 160 Hosts darin ausgehen würden.
 
 
 ## Übung 5
@@ -64,14 +68,22 @@ Netzadresse: 210.52.190.0
 Subnetze: Anzahl 5
 Mindestanzahl von Hosts je Subnetz: 10
 
+
 **Antwort**
+
+Ich brauche 5 Netze mit je /28 Subnetmask damit sich 10 Hosts ausgehen.
 
 ## Übung 6
 
 Teile  ein /30 Netz auf!    Wozu werden diese /30 Netze am häufigsten verwendet?
-Antwort:
 
 **Antwort**
+
+| Subnetmask    | NetzID        | erste Adresse | letzte Adresse| Broadcast     |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| /30           | 192.128.0.0   | 192.128.0.1   | 192.128.0.2   | 192.128.0.3   |
+
+Werden meistens für Verbindungnen zwischen 2 Routern verwendet. 
 
 ## Übung 7
 
