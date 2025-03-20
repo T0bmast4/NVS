@@ -17,3 +17,16 @@
     - BGP
     - OSP
     - IPv6
+
+### 4. Transport Layer
+    - Segment
+    - TCP/UDP
+
+### 5. Session Layer
+    - Datenstrom
+
+### 6. Presentation Layer
+    - Datenstrom
+
+### 7. Application Layer
+    - Datenstrom
