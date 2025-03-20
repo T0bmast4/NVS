@@ -12,7 +12,7 @@ DNS-Server: 192.168.33.1
 DNS-Suffixe: grg spengergasse.at
 
 
-![IP-Konfiguration Bild](Bilder/image-1.png)
+![IP-Konfiguration Bild](img/image-1.png)
 
 ![Ping Bild](img/image.png)
 
