@@ -1,0 +1,1 @@
+Ich hatte Ivanov als Teampartner und habe die Seite der Endgeräte übernommen.
